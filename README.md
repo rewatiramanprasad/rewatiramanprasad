@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Samadhan**
 
-- 🌱 I’m currently learning **MERN FUll stack**
+- 🌱 I’m currently learning **MERN Full Stack**
 
 - 👯 I’m looking to collaborate on **samadhan**
 
