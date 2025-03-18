@@ -31,8 +31,12 @@
 
 
 <h3 align="left">Projects: </h3>
-<p align="left">
- <a href="https://store-qi7lozckd-rewatiramanprasad0203gmailcoms-projects.vercel.app/" >  <img src="https://cdn.worldvectorlogo.com/logos/google-my-business-logo.svg" alt="django" width="100" height="100"/></a> <br/>
-<b>Store</b>
+<div align="left">
+ <a href="https://store-qi7lozckd-rewatiramanprasad0203gmailcoms-projects.vercel.app/" >  <img src="https://cdn.worldvectorlogo.com/logos/google-my-business-logo.svg" alt="django" width="100" height="100"/>
+</a>
+ <span><a href="https://store-qi7lozckd-rewatiramanprasad0203gmailcoms-projects.vercel.app/" >  ![logo](https://github.com/user-attachments/assets/1074a0bf-34fe-4d4b-aeb2-d239bb821c66) 
+</a>
+  </span>
+</div>
 
-</p>
+
